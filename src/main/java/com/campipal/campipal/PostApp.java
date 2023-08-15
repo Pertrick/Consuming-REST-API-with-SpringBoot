@@ -1,5 +1,6 @@
 package com.campipal.campipal;
 
+import com.campipal.campipal.model.Post;
 import com.campipal.campipal.service.PostService;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
@@ -11,8 +12,6 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 
 
 public class PostApp extends Application {

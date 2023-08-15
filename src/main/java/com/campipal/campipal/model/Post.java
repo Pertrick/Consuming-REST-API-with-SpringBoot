@@ -1,4 +1,4 @@
-package com.campipal.campipal;
+package com.campipal.campipal.model;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;

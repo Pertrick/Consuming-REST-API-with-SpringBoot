@@ -9,8 +9,8 @@ public class CampipalApplication {
 
 	public static void main(String[] args) {
 
-	//SpringApplication.run(CampipalApplication.class, args);
-	Application.launch(PostApp.class, args);
+	SpringApplication.run(CampipalApplication.class, args);
+	//Application.launch(PostApp.class, args);
 
 
 

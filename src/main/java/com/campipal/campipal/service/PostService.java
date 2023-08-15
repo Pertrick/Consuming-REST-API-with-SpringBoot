@@ -1,6 +1,6 @@
 package com.campipal.campipal.service;
 
-import com.campipal.campipal.Post;
+import com.campipal.campipal.model.Post;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
